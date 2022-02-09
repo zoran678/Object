@@ -1,0 +1,35 @@
+#background
+{
+   background-image: url("https://img.freepik.com/free-photo/abstract-colorful-blur-plastic-using-polarized-light_1357-89.jpg?size=626&ext=jpg");
+   background-position: center;
+   background-size: cover;
+}
+h3
+{
+    background-color: #9AD0EC;
+    width: 22%;
+    margin-top: 50px;
+}
+.BedRoom
+{
+    background-color: antiquewhite;
+}
+.back
+{
+    margin: 5px;
+
+    background-color: black;
+    float: right;
+    color: white;
+}
+.heading
+{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+}
